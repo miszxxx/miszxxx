@@ -1,3 +1,4 @@
+```py
 class Miszx:
     def __init__(self):
         self.languages = ["Python", "Go"]
@@ -7,4 +8,4 @@ class Miszx:
         return f"🔥 miszx - {', '.join(self.languages)} Dev | Specialties: {', '.join(self.specialties)}"
 
 me = Miszx()
-print(me)
+print(me)```
