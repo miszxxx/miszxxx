@@ -10,7 +10,7 @@
 <p align="center">
   <strong><a href="https://phantomshop.online">Website</a></strong> |
   <strong><a href="https://discord.com/users/813505970000363552">Discord</a></strong> |
-  <strong><a href="https://t.me/msxbands">Telegram</a></strong> |
+  <strong><a href="https://t.me/msxbands">Telegram</a></strong> 
 </p>
 
 <div align="center">
