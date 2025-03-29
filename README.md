@@ -20,7 +20,7 @@
 </div>
 
 
-<p align="center">⚡ I'm currently working on Game Development, Discord, Blockchain, AI & ML and CTFS </p>
+<p align="center">⚡ I'm currently working on Discord Bots & Tools </p>
 
 
 
